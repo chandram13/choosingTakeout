@@ -2,6 +2,7 @@
 '''This program is intended to help a person or couple decide to eat from the most popular fast food places
 based on the most bought food items there. '''
 
+class FastFoodRestaurants:
 
 def mostPopular(fastSpots):
     fastSpots = ["McDonalds", "Burger King", "Jack in the Box", "Taco Bell", "In-N-Out","Chick-fil-A"]
